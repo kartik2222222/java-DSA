@@ -22,6 +22,7 @@ public class PalindromeCheck {
             System.out.println("palindrome");
 
           }
+          sc.close();
         
     }
 }

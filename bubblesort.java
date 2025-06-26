@@ -16,7 +16,7 @@ class bubblesort{
         return arr;
        
     }
-    public static int[] bubblesort(int arr1[]){
+    public static int[] bubblesort1(int arr1[]){
          for(int i=0;i<arr1.length-1;i++){
             for(int j=0;j<arr1.length-i-1;j++){
                 if(arr1[j]>arr1[j+1]){

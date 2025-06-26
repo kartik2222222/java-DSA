@@ -1,5 +1,4 @@
-import java.lang.reflect.Array;
-import java.util.Scanner;
+
 //program to reverse a string
 class firstprogram {
     public static void main(String[] args) {

@@ -22,5 +22,6 @@ public class perfectnumber{
         else{
             System.out.println("perfect number");
         }
+        sc.close();
         }
 }

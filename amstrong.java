@@ -29,6 +29,7 @@ public class amstrong{
             System.out.println("amstrong number");
         }
         
-        
+                sc.close();
+
     }
 }
