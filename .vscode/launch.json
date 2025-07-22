@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Node",
+            "request": "launch",
+            "mainClass": "Node",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeCheck",
+            "request": "launch",
+            "mainClass": "PalindromeCheck",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "amstrong",
+            "request": "launch",
+            "mainClass": "amstrong",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "arraylist_class",
+            "request": "launch",
+            "mainClass": "arraylist_class",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "bubblesort",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "doublylinkedlist",
+            "request": "launch",
+            "mainClass": "doublylinkedlist",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "fact",
+            "request": "launch",
+            "mainClass": "fact",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "firstprogram",
+            "request": "launch",
+            "mainClass": "firstprogram",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "hashmap_",
+            "request": "launch",
+            "mainClass": "hashmap_",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "hashset_program",
+            "request": "launch",
+            "mainClass": "hashset_program",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "linearsearch",
+            "request": "launch",
+            "mainClass": "linearsearch",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "linked",
+            "request": "launch",
+            "mainClass": "linked",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "perfectnumber",
+            "request": "launch",
+            "mainClass": "perfectnumber",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "permutations",
+            "request": "launch",
+            "mainClass": "permutations",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "subsets",
+            "request": "launch",
+            "mainClass": "subsets",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "subsets_duplicates",
+            "request": "launch",
+            "mainClass": "subsets_duplicates",
+            "projectName": "JAVA_DSA_31c7f427"
+        },
+        {
+            "type": "java",
+            "name": "subsets_iteration",
+            "request": "launch",
+            "mainClass": "subsets_iteration",
+            "projectName": "JAVA_DSA_31c7f427"
+        }
+    ]
+}
